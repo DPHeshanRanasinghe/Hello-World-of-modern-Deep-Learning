@@ -1,0 +1,42 @@
+# Model checkpoints and weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Data files
+*.bin
+input.txt
+train.bin
+val.bin
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
