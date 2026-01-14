@@ -105,12 +105,6 @@ After training, generate Shakespeare-style text by providing a prompt (e.g., `RO
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - [Andrej Karpathy](https://github.com/karpathy) for the Tiny Shakespeare dataset and inspiration
